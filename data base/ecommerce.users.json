@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "677706ad608dd84b115c71e4"
+  },
+  "name": "soufiane",
+  "email": "elamraoui@gmail.com",
+  "password": "$2a$10$28jFxUCu0wnD1fvTzUdUbO0uYAw2PpStz7dVHrNTZtBa3GFH/884a",
+  "isAdmin": true,
+  "isVerified": true,
+  "createdAt": {
+    "$date": "2025-01-02T21:35:41.388Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-08T21:16:11.526Z"
+  },
+  "__v": 0,
+  "resetPin": "99390fbf98282db37fdfe7c71503b74faceb6b0e50b7979e2e8775bd92c6a084",
+  "resetPinExpire": {
+    "$date": "2025-01-08T21:25:23.760Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6777c6ed589e8f98c99f3a13"
+  },
+  "name": "othmane",
+  "email": "othmane.a@gmail.com",
+  "password": "$2a$10$7XFP5TjN4yBTRS/InSFuVOJvlLKTm23Ww52iYCJlQBbdHnZF3rpuW",
+  "isAdmin": true,
+  "isVerified": true,
+  "createdAt": {
+    "$date": "2025-01-03T11:15:57.483Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-09T20:35:25.003Z"
+  },
+  "__v": 0,
+  "resetPasswordExpire": {
+    "$date": "2025-01-07T10:23:15.386Z"
+  },
+  "resetPasswordToken": "45efb98a0453c6fe499f03b8a3995f351fea695bd04b8b50fd86abb94d89fde5"
+},
+{
+  "_id": {
+    "$oid": "6780322116d0fa24456850b1"
+  },
+  "name": "c1",
+  "email": "elamraou@gmail.com",
+  "password": "$2a$10$y2kr7dLJEZIDXDRPWlGfge8qi5e5ZO7XNRdX23QsBbK2ZrqU6APdO",
+  "isAdmin": false,
+  "isVerified": true,
+  "createdAt": {
+    "$date": "2025-01-09T20:31:29.750Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-09T20:34:40.468Z"
+  },
+  "__v": 0,
+  "resetPin": "8281dff89352e677092bf985b6c4c6df52470ec9bcebb6c77df5a5b53df70eae",
+  "resetPinExpire": {
+    "$date": "2025-01-09T20:43:36.360Z"
+  }
+}]

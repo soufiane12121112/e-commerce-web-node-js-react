@@ -1,0 +1,278 @@
+[{
+  "_id": {
+    "$oid": "6777c50e589e8f98c99f39ec"
+  },
+  "user": {
+    "$oid": "677706ad608dd84b115c71e4"
+  },
+  "name": "dell latitude 5530",
+  "image": "/uploads\\image-1735902745734.jpg",
+  "brand": "Dell",
+  "category": "Electronics",
+  "description": "Dell Latitude 5530 Core i5-1235U RAM 16 Go DDR4 SSD 256 Go",
+  "rating": 4,
+  "numReviews": 2,
+  "price": 5999.96,
+  "countInStock": 5,
+  "reviews": [
+    {
+      "name": "soufiane",
+      "rating": 5,
+      "comment": "good",
+      "user": {
+        "$oid": "677706ad608dd84b115c71e4"
+      },
+      "_id": {
+        "$oid": "6777c699589e8f98c99f3a07"
+      },
+      "createdAt": {
+        "$date": "2025-01-03T11:14:33.322Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-03T11:14:33.322Z"
+      }
+    },
+    {
+      "name": "c1",
+      "rating": 3,
+      "comment": "a good product",
+      "user": {
+        "$oid": "677ee923ce7845c79d8b6e7f"
+      },
+      "_id": {
+        "$oid": "677ee94ace7845c79d8b6e8d"
+      },
+      "createdAt": {
+        "$date": "2025-01-08T21:08:26.855Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-08T21:08:26.855Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-01-03T11:07:58.888Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-08T21:17:20.386Z"
+  },
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "677eded6ce7845c79d8b6d6c"
+  },
+  "user": {
+    "$oid": "677706ad608dd84b115c71e4"
+  },
+  "name": "Keychron C3 Pro",
+  "image": "/uploads\\image-1736368296613.jpg",
+  "brand": "Appel",
+  "category": "Electronic",
+  "description": "Apple’s Magic Keyboard is compact and elegant enough, but it's far from the only worthy keyboard option for Mac users. Maybe you write all day, play fast-paced games, or need superior ergonomics? Or perhaps you yearn for the cacophonous comfort of mechanical key switches, which Apple's own keyboards lack? Great alternative keyboards abound, but not every one works perfectly with Macs, so you'll need guidance about what works—and what works well. That's where our extensive testing comes in. Based on typing comfort, value, software customization, and the many other factors that we evaluate each Mac keyboard on, our current favorite for most users is Satechi's SM1 Slim Mechanical Backlit Bluetooth Keyboard. We also stand behind all the Mac-compatible keyboards recommended below for more specific use cases. Check them out, plus advice on how to land the best Mac keyboard that's your type.",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 360,
+  "countInStock": 20,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-01-08T20:23:50.765Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-08T20:31:41.748Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677ee13dce7845c79d8b6db3"
+  },
+  "user": {
+    "$oid": "677706ad608dd84b115c71e4"
+  },
+  "name": "Sony Playstation 4 Slim – PS4 Maroc – 1To – Noir",
+  "image": "/uploads\\image-1736368550446.jpg",
+  "brand": "Sony",
+  "category": "Electronic",
+  "description": "Des couleurs riches et éclatantes avec les graphismes HDR d’une qualité exceptionnelle. Un modèle 30% plus fin et 16% plus léger que la PS4 d’origine. La console la plus connectée : stockage de vos jeux, applications et captures d’écran avec les modèles 500Go et 1To.",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 2340,
+  "countInStock": 150,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-01-08T20:34:05.247Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-08T20:36:40.174Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677ee202ce7845c79d8b6dd8"
+  },
+  "user": {
+    "$oid": "677706ad608dd84b115c71e4"
+  },
+  "name": " Manette Sony Playstation 4 Sans Fil DUALSHOCK 4 ",
+  "image": "/uploads\\image-1736368703705.jpg",
+  "brand": "Sony",
+  "category": "Electronic",
+  "description": "Manette Sony Playstation 4 Controller PS4 Sans Fil hot Gain - Couleur Noir",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 270,
+  "countInStock": 1000,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-01-08T20:37:22.698Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-08T20:39:32.608Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677ee2f5ce7845c79d8b6dea"
+  },
+  "user": {
+    "$oid": "677706ad608dd84b115c71e4"
+  },
+  "name": "Écran 23.8″ Lenovo ThinkVision S24e-10 (61CAKAT1EU)",
+  "image": "/uploads\\image-1736368911037.jpg",
+  "brand": "Lenovo",
+  "category": "Electronic",
+  "description": "Taille de l’écran: 23,8″ (60,45) – Format 16:9 Type de Dalle: Vertical Alignment Résolution: Full HD (1920 x 1080) Temps de réponse: 4 ms Connectivité : HDMI, VGA",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 1850,
+  "countInStock": 25,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-01-08T20:41:25.972Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-08T20:42:14.244Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677ee3a7ce7845c79d8b6e14"
+  },
+  "user": {
+    "$oid": "677706ad608dd84b115c71e4"
+  },
+  "name": "Original Lenovo LP40 TWS véritable écouteur sans fil Bluetooth",
+  "image": "/uploads\\image-1736369075680.jpg",
+  "brand": "Lenovo",
+  "category": "Electronic",
+  "description": "Ecouteurs Bluetooth sans Fil, Casque Bluetooth 5.3, 50 Heures Contrôle Tactile, 4 ENC Appel Réduction Antibruit Mic, Basses Profondes, Ajustement Confortable, IPX7 Étanche Casque pour iOS Android.",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 200,
+  "countInStock": 1000,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-01-08T20:44:23.746Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-08T20:45:53.487Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677ee44bce7845c79d8b6e30"
+  },
+  "user": {
+    "$oid": "677706ad608dd84b115c71e4"
+  },
+  "name": "Echo Dot - 2ème Génération",
+  "image": "/uploads\\image-1736369249744.jpg",
+  "brand": "Amazon",
+  "category": "Electronic",
+  "description": "Echo Dot est un haut-parleur à commande vocale qui utilise Alexa pour lire de la musique, contrôler des appareils domestiques intelligents, passer des appels, répondre à des questions, régler des minuteries et des alarmes, etc.",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 250,
+  "countInStock": 2000,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-01-08T20:47:07.951Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-08T20:48:06.929Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677ee498ce7845c79d8b6e44"
+  },
+  "user": {
+    "$oid": "677706ad608dd84b115c71e4"
+  },
+  "name": "iPhone 15‌ Pro",
+  "image": "/uploads\\image-1736369395122.jpg",
+  "brand": "Appel",
+  "category": "Electronic",
+  "description": "The above render shared on X (now Twitter) by @chandlerbongzz shows a familiar white box on top of which is a front-facing image of the ‌iPhone 15‌ Pro or ‌iPhone 15‌ Pro Max, with an \"S\" curve showing on an otherwise black display.",
+  "rating": 5,
+  "numReviews": 1,
+  "price": 17490,
+  "countInStock": 300,
+  "reviews": [
+    {
+      "name": "c1",
+      "rating": 5,
+      "comment": "a good price",
+      "user": {
+        "$oid": "677ee923ce7845c79d8b6e7f"
+      },
+      "_id": {
+        "$oid": "677eea2ece7845c79d8b6ecf"
+      },
+      "createdAt": {
+        "$date": "2025-01-08T21:12:14.298Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-08T21:12:14.298Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-01-08T20:48:24.066Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-08T21:12:14.298Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6780331f16d0fa2445685120"
+  },
+  "user": {
+    "$oid": "677706ad608dd84b115c71e4"
+  },
+  "name": "keyb",
+  "image": "/uploads\\image-1736454993983.jpg",
+  "brand": "dell",
+  "category": "Electronic",
+  "description": "description",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 100,
+  "countInStock": 100,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-01-09T20:35:43.978Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-09T20:36:52.155Z"
+  },
+  "__v": 0
+}]
