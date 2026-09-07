@@ -144,4 +144,4 @@ projet_ecommerce/
 
 **Soufiane EL AMRAOUI**
 Étudiant en Master Intelligence Artificielle et Cybersécurité
-elamraouisoufiane2@gmail.com
+linkdem [https://www.linkedin.com/in/soufiane-el-amraoui-92868a2a6/]
